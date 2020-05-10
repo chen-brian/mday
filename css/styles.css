@@ -1,0 +1,28 @@
+body {
+  background-color: #ffe9c5;
+}
+
+
+img {
+  width: auto;
+  height: 500px; 
+}
+
+.parent-container {
+  position: relative;
+}
+.img-container {
+  position: absolute;
+}
+
+.text-container{
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 195px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  
+}
